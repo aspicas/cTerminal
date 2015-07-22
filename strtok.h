@@ -1,0 +1,1 @@
+extern lista *leerArchivo(lista *inicio);

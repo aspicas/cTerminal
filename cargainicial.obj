@@ -1,0 +1,12 @@
+clearscreen*cls*clear
+newdir*mkdir*mkdir
+deletedir*rd*rm -r
+newdoc*echo. >*touch
+deletedoc*del*rm
+compare*comp*diff -q
+show*type*cat
+move*ren*mv
+currentdirectory*cd*pwd
+listdirectories*dir*ls
+compressgzip*.*gzip -q
+compresstar*.*tar -cvf
